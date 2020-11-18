@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: rgb(119, 226, 19);
+}
+
+.page {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.producers-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.image {
+    width: 320px;
+}
+
+.producer-text {
+    text-align: center;
+}
